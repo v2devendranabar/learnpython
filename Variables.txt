@@ -1,13 +1,14 @@
-Variables
-Data Types
-List
-Tuples
-Functions
-Modules
-Packages
-Command Line Args & Env Variables
-Operators
-If Else ElseIf
-For Loop
-While Loop
-Dictionaries & Set
+PRACTICE THE FOLLOWING:
+1. Variables
+2. Data Types
+3. List
+4. Tuples
+5. Functions
+6. Modules
+7. Packages
+8. Command Line Args & Env Variables
+9. Operators
+10. If Else ElseIf
+11. For Loop
+12. While Loop
+13. Dictionaries & Set
