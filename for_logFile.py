@@ -11,7 +11,7 @@ log_file = [
 ]
 
 for line in log_file:
-  if "ERROr" in line:
+  if "ERROR" in line:
     print(line)
   else:
     print("Invalid search pattern")
